@@ -73,3 +73,9 @@ The MED-45 model harnesses the power of retrieval augmented generation (RAG) and
   </tr>
 </table>
 
+### Link to thesis publication:
+https://oulurepo.oulu.fi/handle/10024/57086
+
+### Link to front-end repository:
+https://github.com/fredie7/thesis-cognitive-distortion-frontend
+
