@@ -50,3 +50,26 @@ As development progressed to the halfway point, a think-aloud test was conducted
 </p>
 
 The MED-45 model harnesses the power of retrieval augmented generation (RAG) and the GPT-4o model in a design architecture that strikes a balance between the speed and precision of the chat interactions. It incorporates a pipeline that reconciles conversational data and user input into vector representations before storing them in the database. The framework also integrates prompt engineering techniques to aid the return of appropriate responses, as well as memory management to ensure continuity across chat sessions between the AI and users. The model is deployed within a FastAPI framework to enable client-side interactivity.
+
+### USER INTERFACE
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img src="https://github.com/fredie7/thesis-cognitive-distortion-backend/blob/main/landing%20page.png?raw=true" alt="Landing Page" width="250" />
+      <br />
+      <strong>Landing Page</strong>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://github.com/fredie7/thesis-cognitive-distortion-backend/blob/main/dashboard.png?raw=true" alt="Dashboard" width="250" />
+      <br />
+      <strong>Dashboard View</strong>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://github.com/fredie7/thesis-cognitive-distortion-backend/blob/main/chat%20interface.png?raw=true" alt="Chat Interface" width="250" />
+      <br />
+      <strong>Chat Interface</strong>
+    </td>
+  </tr>
+</table>
+
