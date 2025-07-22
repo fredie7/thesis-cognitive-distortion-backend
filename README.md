@@ -22,4 +22,22 @@ thoughts in order to foster cognitive self-awareness and reduce mental distress
 through soothing chat engagement
 
 ### METHODOLOGY
-The study began with a pre-questionnaire aimed at assessing students’ perspectives on engaging with a conversational agent designed to identify cognitive distortions. Results showed that 55.5% of participants were enthusiastic about sharing self-critical thoughts with the chatbot, and 61.1% expressed willingness to use the chatbot for short-term stress relief. As development progressed to the halfway point, a think-aloud test was conducted to gather valuable insights from students, focusing on the chatbot’s usability and areas for improvement. After the chatbot was fully developed, a post-study questionnaire was administered to evaluate user experience using the User Experience Questionnaire (UEQ). Emotional engagement was further analyzed through cluster analysis, word clouds, and content analysis.
+The study began with a pre-questionnaire aimed at assessing students’ perspectives on engaging with a conversational agent designed to identify cognitive distortions. Results showed that 55.5% of participants were enthusiastic about sharing self-critical thoughts with the chatbot, and 61.1% expressed willingness to use the chatbot for short-term stress relief. 
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/fredie7/thesis-cognitive-distortion-backend/blob/main/pre-study%20likert%20analysis.png?raw=true" alt="Likert Analysis" width="300" />
+      <br />
+      <strong>Likert Scale Analysis</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/fredie7/thesis-cognitive-distortion-backend/blob/main/pre-study%20analysis.png?raw=true" alt="Pre-study Analysis" width="300" />
+      <br />
+      <strong>Pre-study Analysis Summary</strong>
+    </td>
+  </tr>
+</table>
+
+
+As development progressed to the halfway point, a think-aloud test was conducted to gather valuable insights from students, focusing on the chatbot’s usability and areas for improvement. After the chatbot was fully developed, a post-study questionnaire was administered to evaluate user experience using the User Experience Questionnaire (UEQ). Emotional engagement was further analyzed through cluster analysis, word clouds, and content analysis.
