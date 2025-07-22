@@ -20,3 +20,6 @@ The resulting system takes the form of an intelligent chatbot assistant that
 provides a supportive space where University of Oulu students can reflect on their
 thoughts in order to foster cognitive self-awareness and reduce mental distress
 through soothing chat engagement
+
+### METHODOLOGY
+The study began with a pre-questionnaire aimed at assessing students’ perspectives on engaging with a conversational agent designed to identify cognitive distortions. Results showed that 55.5% of participants were enthusiastic about sharing self-critical thoughts with the chatbot, and 61.1% expressed willingness to use the chatbot for short-term stress relief. As development progressed to the halfway point, a think-aloud test was conducted to gather valuable insights from students, focusing on the chatbot’s usability and areas for improvement. After the chatbot was fully developed, a post-study questionnaire was administered to evaluate user experience using the User Experience Questionnaire (UEQ). Emotional engagement was further analyzed through cluster analysis, word clouds, and content analysis.
