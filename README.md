@@ -43,5 +43,10 @@ The study began with a pre-questionnaire aimed at assessing students’ perspect
 As development progressed to the halfway point, a think-aloud test was conducted to gather valuable insights from students, focusing on the chatbot’s usability and areas for improvement. After the chatbot was fully developed, a post-study questionnaire was administered to evaluate user experience using the User Experience Questionnaire (UEQ). Emotional engagement was further analyzed through cluster analysis, word clouds, and content analysis.
 
 ### SYSTEM ARCHITECTURE
+<p align="center">
+  <img src="https://github.com/fredie7/thesis-cognitive-distortion-backend/blob/main/system%20architecture.png?raw=true" alt="System Architecture" width="600" />
+  <br />
+  <strong>System Architecture</strong>
+</p>
 
 The MED-45 model harnesses the power of retrieval augmented generation (RAG) and the GPT-4o model in a design architecture that strikes a balance between the speed and precision of the chat interactions. It incorporates a pipeline that reconciles conversational data and user input into vector representations before storing them in the database. The framework also integrates prompt engineering techniques to aid the return of appropriate responses, as well as memory management to ensure continuity across chat sessions between the AI and users. The model is deployed within a FastAPI framework to enable client-side interactivity.
