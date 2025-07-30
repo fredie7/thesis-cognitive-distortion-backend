@@ -82,3 +82,5 @@ https://oulurepo.oulu.fi/handle/10024/57086
 ### Link to front-end repository:
 https://github.com/fredie7/thesis-cognitive-distortion-frontend
 
+### REFERENCE:
+Matthew Utti, Conversational AI for cognitive distortion detection, 2025, https://oulurepo.oulu.fi/discover?query=matthew+utti
