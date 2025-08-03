@@ -22,7 +22,7 @@ thoughts in order to foster cognitive self-awareness and reduce mental distress
 through soothing chat engagement
 
 ### TOOLS
-Python(FastAPI), Langchain, OpenAI, Docker
+Python(FastAPI), RAG, Langchain, LLM(OpenAI), Prompt Engineering, Docker
 
 ### METHODOLOGY
 The study began with a pre-questionnaire aimed at assessing students’ perspectives on engaging with a conversational agent designed to identify cognitive distortions. Results showed that 55.5% of participants were enthusiastic about sharing self-critical thoughts with the chatbot, and 61.1% expressed willingness to use the chatbot for short-term stress relief. 
@@ -82,3 +82,5 @@ https://oulurepo.oulu.fi/handle/10024/57086
 ### Link to front-end repository:
 https://github.com/fredie7/thesis-cognitive-distortion-frontend
 
+### REFERENCE:
+Matthew Utti, Conversational AI for cognitive distortion detection, 2025, https://oulurepo.oulu.fi/discover?query=matthew+utti
