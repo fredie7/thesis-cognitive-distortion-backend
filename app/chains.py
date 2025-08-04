@@ -10,7 +10,7 @@ def create_vector_store(documents):
     embedding = OpenAIEmbeddings()
     return FAISS.from_documents(documents, embedding=embedding)
 
-# Create the chain for processing user queries
+# Create the chain for processing user queries.
 def create_recurring_chain(vectorStore):
     model = ChatOpenAI(model="gpt-4o", temperature=0.2)
 
